@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T06:08:59.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="lPxosl1zlTQWSN0dqXdR" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T06:10:16.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LvshQsGiXayOPSjpV2Bj" version="13.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,23 +88,18 @@
         <mxCell id="wz5FfJA9ymAUxzdKkV_o-26" value="选择任务预约时间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="361.25" y="20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rCdJNKpYwue0k_tftPez-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wz5FfJA9ymAUxzdKkV_o-29" target="wz5FfJA9ymAUxzdKkV_o-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wz5FfJA9ymAUxzdKkV_o-29" value="分享视频核保链接" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="361.25" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rCdJNKpYwue0k_tftPez-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wz5FfJA9ymAUxzdKkV_o-40" target="wz5FfJA9ymAUxzdKkV_o-43" edge="1">
+        <mxCell id="rCdJNKpYwue0k_tftPez-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wz5FfJA9ymAUxzdKkV_o-29" target="wz5FfJA9ymAUxzdKkV_o-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="401" y="320" />
-              <mxPoint x="460" y="320" />
+              <mxPoint x="401" y="220" />
+              <mxPoint x="460" y="220" />
               <mxPoint x="460" y="-160" />
             </Array>
+            <mxPoint x="401.25" y="270" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wz5FfJA9ymAUxzdKkV_o-40" value="发送短信通知客户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#339999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="361.25" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wz5FfJA9ymAUxzdKkV_o-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wz5FfJA9ymAUxzdKkV_o-43" target="wz5FfJA9ymAUxzdKkV_o-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
